@@ -1,0 +1,11 @@
+.orca/
+raw_pdf_images/
+extracted_photos.zip
+
+# 홈페이지에서 사용하는 작업 사진만 게시합니다.
+extracted_photos/*
+!extracted_photos/image-005.jpg
+!extracted_photos/image-072.jpg
+!extracted_photos/image-128.jpg
+!extracted_photos/image-194.jpg
+!extracted_photos/image-268.jpg
